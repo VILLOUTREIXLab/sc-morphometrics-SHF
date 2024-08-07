@@ -13,7 +13,7 @@ Employed unsupervised clustering algorythms to map the cells according to their 
 The data used for the analysis is stored in the Data folder. 
 
 ### Pipeline:
-![fig1 scMorphometrics Pipeline (2)](https://github.com/user-attachments/assets/6951fcb8-b677-4888-80c1-f5e33ed7e2b1)
+![figure1](https://github.com/user-attachments/assets/edccac6e-3534-4fe0-8c57-3da490ac7e71)
 
 - Step 1: Perform Whole mount immunofluorescence on the Dorsal pericardial wall (the cardiac epithelium) using phalloidin to label the cell membranes and other proteins of interest.
 - Step 2: Segment the images using [Tissue Analyser](https://github.com/baigouy/tissue_analyzer) (TA) as described by Aigouy et al.2016  .
