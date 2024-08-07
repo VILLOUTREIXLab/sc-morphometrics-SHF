@@ -16,7 +16,7 @@ The data used for the analysis is stored in the Data folder.
 - Step 2: Segment the images using [Tissue Analyser](https://github.com/baigouy/tissue_analyzer) (TA) as described by Aigouy et al.2016  .
 - Step 3: Quantification of features using TA, [Force inference](https://data.mendeley.com/datasets/78ng4tmj75/4) (Kong et al. 2019) and [Dproj](https://gitlab.pasteur.fr/iah-public/DeProj) (Herbert et al. 2021).
 - Step 4: Store,clean and merge the data to prepare it for machine learning algorithms.
-- Step 5: Analyze the data using joint-spatial PCA (https://github.com/SoleneS/JointSpatialPCA) and furhter analysis.
+- Step 5: Analyze the data using [joint-spatial PCA](https://github.com/SoleneS/JointSpatialPCA) (jsPCA) and furhter analysis.
 
 
 
