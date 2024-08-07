@@ -5,12 +5,11 @@ Understand the patterning of cardiac progenitors.The embryonic heart grows by th
 T-box transcription genes (Tbx1 and Tbx5) play a key role in regulating the addition of the cells to the poles of the heart. However, the mechanisms by which the cells contribute to each pole remain unclear.
 
 ![E8 5 to E9 5 transition horizontal graph v3](https://github.com/user-attachments/assets/ac37731b-2141-4eb7-97a4-b89efddd72b4)
-
 ### To investigate this, we have: Employed unsupervised clustering algorythms to map the cells according to their morphological features.
 
 ### Data:
-The data used for the sc-morphometricanalysis is stored in the Data folder. The code for quantification of sc-morphometrics clusters is in Quantification clusters - final.ipnyb, the code for the clusters obtained using absolute angle values is in Quantification clusters_abs degrees.ipnyb
-The data used for RNAscope quantification is stored in Data_RNAscope folder. The code for quantification is RNAscope - mRNA quantification - final.ipnyb
+- The data used for the sc-morphometricanalysis is stored in the Data folder. The code for quantification of sc-morphometrics clusters is in Quantification clusters - final.ipnyb, the code for the clusters obtained using absolute angle values is in Quantification clusters_abs degrees.ipnyb.
+- The data used for RNAscope quantification is stored in Data_RNAscope folder. The code for quantification is RNAscope - mRNA quantification - final.ipnyb
 
 ### Pipeline:
 ![figure1](https://github.com/user-attachments/assets/edccac6e-3534-4fe0-8c57-3da490ac7e71)
