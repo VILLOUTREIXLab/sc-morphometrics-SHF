@@ -10,6 +10,7 @@ To investigate this, we have employed dimentionality reduction and unsupervised 
 ### Data:
 - The data used for the sc-morphometricanalysis is stored in the Data folder. The code for quantification of sc-morphometrics clusters is in Quantification clusters - final.ipnyb, the code for the clusters obtained using absolute angle values is in Quantification clusters_abs degrees.ipnyb.
 - The data used for RNAscope quantification is stored in Data_RNAscope folder. The code for quantification is RNAscope - mRNA quantification - final.ipnyb
+- The images from wild-type, mutants and BMS treatment passed through Tissue Analyser for their segmentation and used in the study are in the IMAGES folder.
 
 ### Pipeline:
 ![figure1](https://github.com/user-attachments/assets/edccac6e-3534-4fe0-8c57-3da490ac7e71)
